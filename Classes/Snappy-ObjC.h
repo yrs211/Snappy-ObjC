@@ -27,7 +27,7 @@
 
 #ifndef Snappy_ObjC_Snappy_h
 #define Snappy_ObjC_Snappy_h
-
+#import <Foundation/Foundation.h>
 @interface NSData (Snappy)
 
 #ifdef SNAPPY_NO_PREFIX
