@@ -3,7 +3,7 @@
 import PackageDescription
 
 let package = Package(
-    name: "Snappy-ObjC-SPM",
+    name: "SnappyObjC",
     platforms: [
         .iOS(.v12)
     ],
